@@ -28,7 +28,6 @@ Or you can **add new countries** manually. To add a new country to your list, cl
 On the **country info** panel define the **following country settings:**
 
 * **Name** of the country.
-* Tick the **Allows registration** checkbox, to enable customers located in this country to register for a store account. By default, all the countries are active. If you need to limit the number of countries from which profile registrations are welcome, deactivate all the countries that you do not want to be included.
 * **Allows billing** to customers located in this country.
 * **Allows shipping** to customers located in this country.
 * Enter **Two letter ISO** code of this country.
